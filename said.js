@@ -29,7 +29,7 @@ const total = slider.children.length;
 
 function showSlide(index) {
   const offset = index * -100;
-  slider.style.transform = translateX(${offset}%);
+  slider.style.transform = `translateX(${offset}%)`;
 }
 
 function nextSlide() {
