@@ -49,9 +49,7 @@ body {
   }
   
   .slideshow-container {
-    height: 400px;
-    width: 400px;
-    margin: auto;
+
     
     position: relative;
   }
@@ -60,6 +58,7 @@ body {
     height: auto;
     width: 100%; 
     position: relative;
+    
   }
   
   
