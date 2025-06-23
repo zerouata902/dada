@@ -50,14 +50,14 @@ body {
   
   .slideshow-container {
 
-    margin: 20px auto;
+    
     position: relative;
   }
   
   .slideshow-container img{
-    height: 390px;
-    width: 390px;
-    margin: 20px auto;
+    height: 400px;
+    width: 400px;
+    
     position: relative;
   }
   
