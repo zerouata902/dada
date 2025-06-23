@@ -49,15 +49,16 @@ body {
   }
   
   .slideshow-container {
-
+    height: 400px;
+    width: 400px;
+    margin: auto;
     
     position: relative;
   }
   
   .slideshow-container img{
-    height: 400px;
-    width: 400px;
     
+    width: 100%; 
     position: relative;
   }
   
